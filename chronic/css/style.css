@@ -1,0 +1,93 @@
+/*---Logo area ---*/
+.spacer {
+    padding-top: 120px;
+}
+.nav-section{
+    padding: 20px 0px;
+    width: 100%;
+    z-index: 2;
+    -webkit-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    box-shadow: 0px 0px 30px 0px rgba(34, 34, 34, 0.08);
+    background: ghostwhite;
+}
+.main-menu ul{
+    text-align: right;
+}
+.main-menu ul li{
+    display: inline-block;
+    margin-left: 35px;
+    font-weight: 500;
+}
+.main-menu ul li a{
+    color: #34ce57;
+}
+.main-menu ul li a:hover{
+    border: 1px solid deepskyblue;
+    -webkit-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    padding: 5px;
+    border-radius: 5px;
+    color: deepskyblue;
+}
+.main-menu ul li ul{
+    position: absolute;
+    left: -9999px;
+    list-style: none;
+    text-decoration: none;
+    -webkit-transform: translateX(850px);
+    transform: translateX(850px);
+    background: white;
+    box-shadow: 0px 0px 30px 0px rgba(34, 34, 34, 0.08);
+
+}
+.main-menu ul li ul li{
+    display: block;
+    margin-right: 40px !important;
+    padding: 10px;
+    color: deepskyblue !important;
+}
+.main-menu ul li:hover ul{
+    left: 0;
+    text-transform: lowercase;
+    margin: 0 !important;
+}
+.cart-dropdown:hover ul li a{
+    color: deepskyblue !important;
+    border: 0 !important;
+}
+.abtimg .img1{
+    height: 200px;
+    width: 300px;
+    position: relative;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+.abtimg .img2{
+    position: absolute;
+}
+.causes ul li{
+    list-style: none;
+    padding:10px 0 0 0;
+}
+.causes ul li span{
+    color: #34ce57;
+    padding-right: 20px;
+}
+.coltitle h3{
+    color: deepskyblue;
+}
+.colimage img {
+    height: 50%!important;
+    width: 100%;
+}
+.colimage h5{
+    color: deepskyblue;
+}
+.btn2{
+    width: 30%;
+    height: 60px;
+    border: 2px solid green;
+    background: white;
+    border-radius: 10px;
+}

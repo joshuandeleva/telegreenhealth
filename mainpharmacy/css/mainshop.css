@@ -1,0 +1,115 @@
+.list-link-title{
+    text-transform: lowercase;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+.list-link li>a {
+    position: relative;
+    display: inline-block;
+    text-transform: uppercase;
+    -webkit-transition: 0.3s all;
+    transition: 0.3s all;
+}
+.list-links li>a:before {
+    content: "\f105";
+    position: absolute;
+    left: 0px;
+    -webkit-transform: translateX(-10px);
+    -ms-transform: translateX(-10px);
+    transform: translateX(-10px);
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition: 0.3s all;
+    transition: 0.3s all;
+}
+.list-link li>a:hover,.list-link li>a:focus,.list-link li.active>a {
+    color: deepskyblue;
+    -webkit-transform: translateX(10px);
+    -ms-transform: translateX(10px);
+    transform: translateX(10px);
+}
+
+.list-link li>a:hover:before,.list-link li>a:focus:before,.list-link li.active>a:before {
+    opacity: 1;
+    visibility: visible;
+}
+.menu-list>li {
+    display: inline-block;
+}
+.menu-list>li>a {
+    display: block;
+    color: black;
+    font-weight: 300;
+    text-transform: none;
+    text-decoration: none;!important;
+}
+.custom-menu{
+    position: absolute;
+    padding: 15px;
+    background: #FFF;
+    -webkit-box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.175);
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.175);
+    z-index: 100;
+    top: 100%;
+    min-width: 200px;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition: 0.3s all;
+    transition: 0.3s all;
+}
+.dropdown.open>.custom-menu {
+    opacity: 1;
+    visibility: visible;
+}
+.dropdown.default-dropdown>.custom-menu {
+    left: 50%;
+    -webkit-transform: translateX(-50%) translateY(15px);
+    -ms-transform: translateX(-50%) translateY(15px);
+    transform: translateX(-50%) translateY(15px);
+}
+
+.dropdown.default-dropdown.open>.custom-menu {
+    -webkit-transform: translateX(-50%) translateY(0px);
+    -ms-transform: translateX(-50%) translateY(0px);
+    transform: translateX(-50%) translateY(0px);
+}
+
+.dropdown.default-dropdown>.custom-menu>li>a {
+    display: block;
+    padding: 10px 0px;
+    text-transform: none;
+}
+.dropdown.default-dropdown>.custom-menu>li>a :hover{
+    color: deepskyblue; !important;
+}
+/*-- Mega Dropdown --*/
+
+.dropdown.mega-dropdown.full-width {
+    position: static !important;
+}
+.menu-list>li>a:hover,.menu-list>li>a:focus{
+    color: deepskyblue;
+}
+
+
+.mega-dropdown>.custom-menu {
+    left: 0;
+    -webkit-transform: translate(0px, 15px);
+    -ms-transform: translate(0px, 15px);
+    transform: translate(0px, 15px);
+    width: auto;
+    min-width: 750px;
+    max-width: 100%;
+}
+.mega-dropdown.full-width>.custom-menu {
+    width: 100%;
+}
+
+.mega-dropdown.open>.custom-menu {
+    -webkit-transform: translate(0px, 0px);
+    -ms-transform: translate(0px, 0px);
+    transform: translate(0px, 0px);
+}
+.menu-list li a i{
+    padding-left: 10px;
+}

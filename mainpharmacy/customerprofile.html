@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Customer|Profile</title>
+    <!---fontawesome files---->
+    <link rel="stylesheet" href="fontawesome-free-5.0.1/css/fontawesome-all.css">
+    <!----Core Bootstrap---->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!----material design bootstrap ---->
+    <link rel="stylesheet" href="css/mdb.min.css">
+    <!----customized css ---->
+    <link rel="stylesheet" href="css/customerprofile.css">
+</head>
+<body>
+<div class="wrapper">
+    <!-- Sidebar -->
+    <nav id="sidebar">
+        <div class="sidebar-header">
+            <img src="images/prof2.jpg" class="circular--square" alt="">
+            <div class="update-profile">
+                <button class="btn-success">Edit-Profile</button>
+            </div>
+        </div>
+        <div class="sub-heading">
+            <ul>
+                <li><span class="fa fa-bars"></span><a href="">Dashboard</a></li>
+                <li><span class="fa fa-history"></span><a href="">History</a></li>
+                <li><span class="fab fa-grav"></span><a href="">perfomarnce</a></li>
+                <li><span class="fa fa-user"></span><a href="">Account</a></li>
+                <li><span class="fa fa-credit-card"></span><a href="">paymentmethods</a></li>
+                <li><span class="fab fa-wpexplorer"></span><a href="">Bills</a></li>
+                <li><span class="fa fa-cog"></span><a href="">settings</a></li>
+            </ul>
+        </div>
+        <div class="update-profile">
+            <button class="btn-success">LogOut</button>
+        </div>
+    </nav>
+    <div class="container mainback">
+        <div class="row d-flex">
+            <div class="col-lg-8 search">
+                <input type="text"style="position: absolute">
+                <span class="fa fa-search" style="position: relative"></span>
+                <hr>
+            </div>
+            <div class="col-lg-4">
+                <div class="leftlist">
+                    <ul>
+                        <li><span class="fa fa-envelope"></span></li>
+                        <li><span class="fa fa-bell"></span></li>
+                        <li><span class="fa fa-user-circle"></span><a href=""></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="row title">
+            <div class="header-titlestat">
+                <h2>Settings</h2>
+            </div>
+            <div class="col-lg-12 profilesett mx-auto">
+                <ul>
+                    <li><a href="#account">Profile Settings</a></li>
+                    <li><a href="">Account Setting</a></li>
+                    <li><a href="">Notification Setting</a></li>
+                    <li><a href="">Account statistics and usage</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+        <form id="account">
+            <div class="row">
+                <h4>Account</h4>
+                <div class="input-group input-group-icon">
+                    <input type="text" placeholder="Full Name"/>
+                    <div class="input-icon"><i class="fa fa-user"></i></div>
+                </div>
+                <div class="input-group input-group-icon">
+                    <input type="email" placeholder="Email Adress"/>
+                    <div class="input-icon"><i class="fa fa-envelope"></i></div>
+                </div>
+                <div class="input-group input-group-icon">
+                    <input type="password" placeholder="Password"/>
+                    <div class="input-icon"><i class="fa fa-key"></i></div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-half">
+                    <h4>Date of Birth</h4>
+                    <div class="input-group">
+                        <div class="col-third">
+                            <input type="text" placeholder="DD"/>
+                        </div>
+                        <div class="col-third">
+                            <input type="text" placeholder="MM"/>
+                        </div>
+                        <div class="col-third">
+                            <input type="text" placeholder="YYYY"/>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-half">
+                    <h4>Gender</h4>
+                    <div class="input-group">
+                        <input type="radio" name="gender" value="male" id="gender-male"/>
+                        <label for="gender-male">Male</label>
+                        <input type="radio" name="gender" value="female" id="gender-female"/>
+                        <label for="gender-female">Female</label>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <h4>Payment Details</h4>
+                <div class="input-group">
+                    <input type="radio" name="payment-method" value="card" id="payment-method-card" checked="true"/>
+                    <label for="payment-method-card"><span><i class="fab fa-cc-visa"></i>Credit Card</span></label>
+                    <input type="radio" name="payment-method" value="paypal" id="payment-method-paypal"/>
+                    <label for="payment-method-paypal"> <span><i class="fab fa-cc-paypal"></i>Paypal</span></label>
+                </div>
+                <div class="input-group input-group-icon">
+                    <input type="text" placeholder="Card Number"/>
+                    <div class="input-icon"><i class="fa fa-credit-card"></i></div>
+                </div>
+                <div class="col-half">
+                    <div class="input-group input-group-icon">
+                        <input type="text" placeholder="Card CVC"/>
+                        <div class="input-icon"><i class="fa fa-user"></i></div>
+                    </div>
+                </div>
+                <div class="col-half">
+                    <div class="input-group">
+                        <select>
+                            <option>01 Jan</option>
+                            <option>02 Jan</option>
+                        </select>
+                        <select>
+                            <option>2015</option>
+                            <option>2016</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </form>
+        </div>
+        <div class="row d-flex payment">
+            <div class="header-titlestat my-3">
+                <h2>Connect your paymentcard</h2>
+            </div>
+            <div class="col-lg-12 my-3">
+                <img src="images/paypal-54-675727.svg" alt="">
+                <img src="images/wepay-1-675738.svg" alt="">
+                <img src="images/visa-36-675739.svg" alt="">
+                <img src="images/mastercard-24-675720.svg" alt="">
+            </div>
+        </div>
+        <div class="social-connect">
+            <div class="header-titlestat my-3">
+                <h2>Connect your paymentcard</h2>
+            </div>
+            <div class="col-lg-6 socialmedia">
+                <ul>
+                    <li><span class="fab fa-facebook"></span><a href="">facebook</a></li>
+                    <li><span class="fab fa-twitter"></span><a href="">twitter</a></li>
+                    <li><span class="fab fa-instagram"></span><a href="">instagram</a></li>
+                    <li><span class="fab fa-google-plus"></span><a href="">Google</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

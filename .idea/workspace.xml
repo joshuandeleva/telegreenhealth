@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9a83ff9-a7de-4119-b613-319e05264d2e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Telemedecine/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/CSS/slide.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/departments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/4565.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/Black Nurse TeleDoc 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/Black Nurse and Patient .jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/Doctor-amico.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/Doctor-bro.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/Doctor-pana (1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/Gym.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/Health professional team-rafiki.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/Hospital.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/Page Not Found.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/S1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/about-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/accounts.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/admission.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/amazon (1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/amb1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/ambulance.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/baby.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/belonav.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/bg-14.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/bg-2 (1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/bg-8.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/bg12.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/bitcoin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/conference.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/contact.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/contactus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/dep-i.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/goal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/group.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/header-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/health_.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/maestro.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/mainLogo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/mastercard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/men.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/news-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/nutrition.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/office.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/paypal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/pere.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/service-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/shopify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/surg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/images/visa.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/inpatient.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/outpatient.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/services.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telemedecine/specialservices.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phamarcy/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Telemedecine/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/CSS/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Telemedecine/CSS/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/CSS/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/CSS/owl.theme.default.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/CSS/owl.theme.green.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/Telemedicine" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Telemedecine/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/phamarcy/js/baguetteBox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/phamarcy/js/contact-form-script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/phamarcy/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/phamarcy/js/form-validator.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/phamarcy/js/images-loded.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/phamarcy/js/isotope.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/phamarcy/js/owl.animate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/phamarcy/js/owl.autoheight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/phamarcy/js/owl.autoplay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/phamarcy/js/owl.autorefresh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/phamarcy/js/owl.carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/phamarcy/js/owl.hash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/phamarcy/js/owl.lazyload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/phamarcy/js/owl.navigation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/phamarcy/js/owl.video.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/phamarcy/js/picker.date.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/phamarcy/js/picker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/phamarcy/js/picker.time.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/phamarcy/styles/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/phamarcy/styles/owl.theme.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/phamarcy/styles/owl.theme.green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/phamarcy/styles/superslides.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/signup_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/Telemedecine/signup_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/slider.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Telemedecine/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Telemedecine/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phamarcy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/phamarcy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phamarcy/css/animate.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phamarcy/css/baguetteBox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phamarcy/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/phamarcy/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phamarcy/css/vendor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phamarcy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/phamarcy/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phamarcy/styles/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/phamarcy/styles/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phamarcy/styles/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phamarcy/styles/owl.theme.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phamarcy/styles/owl.theme.green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phamarcy/styles/phamarcystyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/phamarcy/styles/phamarcystyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phamarcy/styles/superslides.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phamarcy/styles/teststyle.css" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Telemedecine/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="63" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#strong#0;n#span#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#6;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mainpharmacy/customerprofile.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="661">
+              <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+              <folding>
+                <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Telemedecine/inpatient.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2295">
+              <caret line="180" column="74" selection-start-line="180" selection-start-column="74" selection-end-line="180" selection-end-column="74" />
+              <folding>
+                <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chronic/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Telemedecine/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2380">
+              <caret line="140" column="26" selection-start-line="140" selection-start-column="26" selection-end-line="140" selection-end-column="26" />
+              <folding>
+                <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mainpharmacy/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="802">
+              <caret line="99" column="1" lean-forward="true" selection-start-line="99" selection-start-column="1" selection-end-line="99" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Telemedecine/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="833">
+              <caret line="49" column="59" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Telemedecine/CSS/Style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1074">
+              <caret line="259" column="21" selection-start-line="259" selection-start-column="21" selection-end-line="259" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Telemedecine/services.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="524">
+              <caret line="92" column="12" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Telemedecine" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Telemedecine/style.css" />
+        <option value="$PROJECT_DIR$/Telemedecine/inpatient.html" />
+        <option value="$PROJECT_DIR$/Telemedecine/outpatient.html" />
+        <option value="$PROJECT_DIR$/Telemedecine/departments.html" />
+        <option value="$PROJECT_DIR$/Telemedecine/signup_form.html" />
+        <option value="$PROJECT_DIR$/Telemedecine/services.html" />
+        <option value="$PROJECT_DIR$/Telemedecine/about.html" />
+        <option value="$PROJECT_DIR$/Telemedecine/CSS/Style.css" />
+        <option value="$PROJECT_DIR$/Telemedecine/index.html" />
+        <option value="$PROJECT_DIR$/mainpharmacy/css/style.css" />
+        <option value="$PROJECT_DIR$/mainpharmacy/customerprofile.html" />
+        <option value="$PROJECT_DIR$/mainpharmacy/shop.html" />
+        <option value="$PROJECT_DIR$/mainpharmacy/css/mainshop.css" />
+        <option value="$PROJECT_DIR$/chronic/css/style.css" />
+        <option value="$PROJECT_DIR$/chronic/index.html" />
+        <option value="$PROJECT_DIR$/mainpharmacy/index.html" />
+        <option value="$PROJECT_DIR$/mainpharmacy/css/customerprofile.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="489" />
+    <option name="width" value="1099" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Hospital" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hospital" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hospital" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hospital" type="462c0819:PsiDirectoryNode" />
+              <item name="mainpharmacy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hospital" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hospital" type="462c0819:PsiDirectoryNode" />
+              <item name="mainpharmacy" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hospital" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hospital" type="462c0819:PsiDirectoryNode" />
+              <item name="Telemedecine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hospital" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hospital" type="462c0819:PsiDirectoryNode" />
+              <item name="Telemedecine" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hospital" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hospital" type="462c0819:PsiDirectoryNode" />
+              <item name="Telemedecine" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chronic/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\moses\PhpstormProjects\Hospital\chronic\images" />
+      <recent name="C:\Users\moses\PhpstormProjects\Hospital\chronic\js" />
+      <recent name="C:\Users\moses\PhpstormProjects\Hospital\chronic\css" />
+      <recent name="C:\Users\moses\PhpstormProjects\Hospital\chronic" />
+      <recent name="C:\Users\moses\PhpstormProjects\Hospital\mainpharmacy\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9a83ff9-a7de-4119-b613-319e05264d2e" name="Default Changelist" comment="" />
+      <created>1592135090619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592135090619</updated>
+      <workItem from="1592135091831" duration="10438000" />
+      <workItem from="1592226372503" duration="4933000" />
+      <workItem from="1592301926217" duration="46271000" />
+      <workItem from="1592479612902" duration="23236000" />
+      <workItem from="1592561768441" duration="10666000" />
+      <workItem from="1592654460384" duration="9336000" />
+      <workItem from="1592989582310" duration="2230000" />
+      <workItem from="1592992185486" duration="4057000" />
+      <workItem from="1593521738145" duration="1072000" />
+      <workItem from="1593522838947" duration="1915000" />
+      <workItem from="1593644207432" duration="325000" />
+      <workItem from="1594648167337" duration="5104000" />
+      <workItem from="1594812193823" duration="34000" />
+      <workItem from="1596974335871" duration="1287000" />
+      <workItem from="1596992221706" duration="778000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="121682000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30012855" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32969153" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27570695" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32969153" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Telemedecine/departments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="64" column="71" lean-forward="true" selection-start-line="64" selection-start-column="71" selection-end-line="64" selection-end-column="71" />
+          <folding>
+            <element signature="n#nav#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Telemedecine/images/goal.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Telemedecine/images/Health professional team-rafiki.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Telemedecine/images/bg-14.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Telemedecine/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="82" column="39" selection-start-line="82" selection-start-column="39" selection-end-line="82" selection-end-column="39" />
+          <folding>
+            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Telemedecine/images/Doctor-pana (1).svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Telemedecine/images/dep-i.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Telemedecine/images/Doctor-bro.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Telemedecine/images/Doctor-amico.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Telemedecine/images/health_.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpharmacy/css/mdb.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10795" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpharmacy/fontawesome-free-5.0.1/css/fontawesome-all.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpharmacy/images/office.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpharmacy/images/Online Doctor-pana.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpharmacy/images/Server-pana.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpharmacy/images/Profile pic-rafiki.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpharmacy/images/professional.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpharmacy/images/admission.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpharmacy/images/Credit Card Payment-pana.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpharmacy/images/People search-pana.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpharmacy/images/moneygram-675723.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Telemedecine/outpatient.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="325" column="21" selection-start-line="317" selection-start-column="20" selection-end-line="325" selection-end-column="21" />
+          <folding>
+            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Telemedecine/signup_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="80" column="14" lean-forward="true" selection-start-line="80" selection-start-column="14" selection-end-line="80" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpharmacy/css/mainshop.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="82" column="35" lean-forward="true" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpharmacy/js/main.js" />
+    <entry file="file://$PROJECT_DIR$/mainpharmacy/shop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="92" column="54" lean-forward="true" selection-start-line="92" selection-start-column="54" selection-end-line="92" selection-end-column="54" />
+          <folding>
+            <element signature="n#li#2;n#ul#0;n#div#1;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#3;n#ul#0;n#div#1;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#4;n#ul#0;n#div#1;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chronic/css/customerprofile.css" />
+    <entry file="file://$PROJECT_DIR$/chronic/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chronic/fontawesome-free-5.0.1/css/fontawesome-all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chronic/images/Server-pana.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Telemedecine/swipe/css/swiper.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chronic/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1717">
+          <caret line="101" column="7" selection-start-line="101" selection-start-column="7" selection-end-line="101" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phamarcy/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="130" column="49" selection-start-line="130" selection-start-column="49" selection-end-line="130" selection-end-column="49" />
+          <folding>
+            <element signature="n#div#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpharmacy/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2839">
+          <caret line="167" column="6" selection-start-line="167" selection-start-column="6" selection-end-line="167" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#form#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#form#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#1;n#form#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#2;n#form#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Telemedecine/images/mainLogo.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Telemedecine/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="63" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#strong#0;n#span#0;n#div#1;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Telemedecine/inpatient.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="180" column="74" selection-start-line="180" selection-start-column="74" selection-end-line="180" selection-end-column="74" />
+          <folding>
+            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chronic/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Telemedecine/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2380">
+          <caret line="140" column="26" selection-start-line="140" selection-start-column="26" selection-end-line="140" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpharmacy/css/customerprofile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="99" column="19" selection-start-line="98" selection-start-column="4" selection-end-line="99" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpharmacy/customerprofile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Telemedecine/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="59" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpharmacy/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="802">
+          <caret line="99" column="1" lean-forward="true" selection-start-line="99" selection-start-column="1" selection-end-line="99" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Telemedecine/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="92" column="12" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Telemedecine/CSS/Style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1074">
+          <caret line="259" column="21" selection-start-line="259" selection-start-column="21" selection-end-line="259" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
